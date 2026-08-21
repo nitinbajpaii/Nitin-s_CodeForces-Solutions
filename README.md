@@ -48,13 +48,25 @@ More topics will be added as I progress.
 
 I regularly solve Codeforces problems and maintain my solutions in this repository.
 
-| Difficulty | Progress     |
-| ---------- | ------------ |
-| 800        | 🟢 Solving   |
-| 900        | 🟡 Learning  |
-| 1000+      | 🔵 Improving |
+**🏆 60+ Codeforces Problems Solved**
 
-This section will be updated as my problem-solving skills improve.
+| Difficulty | Progress |
+| ---------- | -------- |
+| 800        | 🟢 Strong Foundation |
+| 900        | 🟢 Comfortable |
+| 1000       | 🟡 Improving |
+| 1100+      | 🔵 Learning |
+
+Currently focusing on **800–1100 rated problems** and gradually increasing the difficulty.
+
+More problems will be added as I progress.
+
+### 🎯 Milestones
+
+- ✅ 50 Problems Solved
+- ✅ 60 Problems Solved
+- 🎯 70 Problems
+- 🎯 100 Problems
 
 ## 🛠️ Tech Stack
 
