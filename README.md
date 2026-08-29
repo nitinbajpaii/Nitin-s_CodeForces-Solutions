@@ -48,7 +48,7 @@ More topics will be added as I progress.
 
 I regularly solve Codeforces problems and maintain my solutions in this repository.
 
-**🏆 60+ Codeforces Problems Solved**
+**🏆 70+ Codeforces Problems Solved**
 
 | Difficulty | Progress |
 | ---------- | -------- |
@@ -65,7 +65,7 @@ More problems will be added as I progress.
 
 - ✅ 50 Problems Solved
 - ✅ 60 Problems Solved
-- 🎯 70 Problems
+- ✅ 70 Problems Solved
 - 🎯 100 Problems
 
 ## 🛠️ Tech Stack
