@@ -14,7 +14,6 @@ public class Panoramix_s_Prediction_80A {
             }
         }
         System.out.println("NO");
-
     }
     public static boolean isPrime(int n){
         if(n<2){
