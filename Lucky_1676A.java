@@ -1,0 +1,28 @@
+package CodeForces;
+
+import java.util.Scanner;
+
+public class Lucky_1676A {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int t = sc.nextInt();
+        while(t-->0){
+            String str = sc.next();
+            int n = str.length();
+            int sum1=0;
+            int sum2=0;
+            for(int i=0;i<n/2;i++){
+                sum1 += str.charAt(i)-'0';
+            }
+            for(int i=n/2;i<n;i++){
+                sum2 += str.charAt(i)-'0';
+            }
+            if(sum1==sum2){
+                System.out.println("YES");
+            }
+            else{
+                System.out.println("NO");
+            }
+        }
+    }
+}
