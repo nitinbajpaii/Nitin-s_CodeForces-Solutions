@@ -10,11 +10,10 @@ public class Short_Substrings_1367A {
             StringBuilder sb = new StringBuilder();
             String str = sc.next();
             for(int i=0;i<str.length();i+=2){
-                    sb.append(str.charAt(i));
+                sb.append(str.charAt(i));
             }
             sb.append(str.charAt(str.length()-1));
             System.out.println(sb.toString());
-
         }
     }
 }
